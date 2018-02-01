@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Nome: Vinicius Ormenesse
-# Contato: vinicius.ormenesse@itau-unibanco
+# Contato: vinicius.ormenesse@gmail.com
 # Data: 16-08-2017
 # Script desenvolvido para enviar logs de auditoria para servidor Syslog
 # O funcionamento do script depende da configuracao do arquivo:
