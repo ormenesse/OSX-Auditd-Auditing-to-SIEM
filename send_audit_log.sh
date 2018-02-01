@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Nome: Vinicius Ormenesse
 # Contato: vinicius.ormenesse@gmail.com
 # Data: 16-08-2017
